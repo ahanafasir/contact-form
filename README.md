@@ -8,3 +8,5 @@ A contact form developed using HTML, CSS, JavaScript &amp; PHP
 2. Copy the folder to the htdocs folder in your XAMPP directory
 3. Start the Apache server
 4. Navigate to the folder localhost/contact-form
+
+# Interface Demo
