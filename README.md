@@ -10,3 +10,5 @@ A contact form developed using HTML, CSS, JavaScript &amp; PHP
 4. Navigate to the folder localhost/contact-form
 
 # Interface Demo
+
+1. ![Desktop 1](/demo/desktop 1)
